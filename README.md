@@ -8,7 +8,7 @@
 
 ### Looking at Rides Over Time 
 
-![Pyber_Fare_Summary.png](Analysis/Pyber_Fare_Summary.png)
+![Pyber_fare_summary.png](Analysis/Pyber_fare_summary.png)
 
 
 ## Summary 
